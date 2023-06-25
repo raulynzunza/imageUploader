@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+     
+    }
+    body {
+      background-color: #e7e7e7;
+      font-family: 'Poppins', system-ui, sans-serif;
+    }
+  }

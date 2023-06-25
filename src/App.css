@@ -1,0 +1,13 @@
+#file-input {
+    display: none;
+  }
+
+  #file-input-label {
+    font-size: 1.3em;
+    padding: 10px 15px;
+    border: 1px solid black;
+    border-radius: 4%;
+    background-color: #2F80ED;
+    color: white;
+    cursor: pointer;
+  }
