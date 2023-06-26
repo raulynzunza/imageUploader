@@ -2,7 +2,7 @@ const Alert = () => {
   return (
     <div
       role="alert"
-      className="rounded-xl border border-gray-100 bg-[#198754] p-4 shadow-xl mt-5 animate__animated animate__fadeIn"
+      className="rounded-xl bg-[#198754] p-4 shadow-xl mt-5 animate__animated animate__fadeIn"
     >
       <div className="flex items-start gap-4">
         <span className="text-white">
